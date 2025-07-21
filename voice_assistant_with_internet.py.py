@@ -71,4 +71,4 @@ while True:
             if wiki_result:
                 speak(wiki_result)
             else:
-                speak("")
+                speak("Sorry, I could not find an answer.")
